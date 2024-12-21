@@ -1,0 +1,62 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/item_frame"
+    },
+    "overrides": [
+        {
+        "predicate": {
+          "custom_model_data": 8123030
+        },
+        "model": "naturesecrets:item/bonsai/0"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 8123031
+        },
+        "model": "naturesecrets:item/bonsai/1"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 8123032
+        },
+        "model": "naturesecrets:item/bonsai/2"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 8123033
+        },
+        "model": "naturesecrets:item/bonsai/3"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 8123034
+        },
+        "model": "naturesecrets:item/bonsai/4"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 8123035
+        },
+        "model": "naturesecrets:item/bonsai/5"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 8123036
+        },
+        "model": "naturesecrets:item/bonsai/6"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 8123037
+        },
+        "model": "naturesecrets:item/bonsai/7"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 8123038
+        },
+        "model": "naturesecrets:item/bonsai/8"
+      }
+    ]
+  }

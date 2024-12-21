@@ -1,0 +1,92 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/honeycomb"
+    },
+    "overrides": [
+        {
+        "predicate": {
+          "custom_model_data": 8123012
+        },
+        "model": "naturesecrets:item/strange_book"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 8123013
+        },
+        "model": "naturesecrets:item/moss"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 8123014
+        },
+        "model": "naturesecrets:item/black_chalk"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 8123015
+        },
+        "model": "naturesecrets:item/chalkcircle"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 8123016
+        },
+        "model": "naturesecrets:item/pog_tree_sapling"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 8123017
+        },
+        "model": "naturesecrets:item/pog_tree"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 8123018
+        },
+        "model": "naturesecrets:item/pog_tree_heart"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 8123019
+        },
+        "model": "naturesecrets:item/pog_tree_leaves"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 8123021
+        },
+        "model": "naturesecrets:item/pog_tree_heart_chewing"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 8123022
+        },
+        "model": "naturesecrets:item/cultist_stalker"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 8123023
+        },
+        "model": "naturesecrets:item/goated_book"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 8123024
+        },
+        "model": "naturesecrets:item/pog_tree_heart_up"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 8123025
+        },
+        "model": "naturesecrets:item/pog_tree_heart_chewing_up"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 8123026
+        },
+        "model": "naturesecrets:item/scrap"
+      }
+    ]
+  }

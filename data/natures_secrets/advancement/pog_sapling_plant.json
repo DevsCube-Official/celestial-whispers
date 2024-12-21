@@ -1,0 +1,19 @@
+{
+    "display": {
+      "icon": {
+        "id": "minecraft:grass_block"
+      },
+      "title": "Not any nature i know",
+      "description": "Discover a new type of plant breed",
+      "show_toast": true,
+      "announce_to_chat": true,
+      "hidden": false
+    },
+    "parent": "natures_secrets:natures_secret/root",
+    "criteria": {
+      "Impossible": {
+        "trigger": "minecraft:impossible"
+      }
+    }
+  }
+  

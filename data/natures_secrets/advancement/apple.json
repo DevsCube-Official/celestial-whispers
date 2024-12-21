@@ -1,0 +1,17 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "components": {
+            "minecraft:item_model": "naturesecrets:apple"
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "natures_secrets:uses/apple_use"
+  }
+}

@@ -1,0 +1,16 @@
+{
+    "display": {
+      "icon": {
+        "id": "minecraft:oak_sapling"
+      },
+      "title": "Nature's secrets",
+      "description": "Why, why even try? is this even nature? WHAT is it?",
+      "background": "minecraft:textures/gui/advancements/backgrounds/husbandry.png"
+    },
+    "criteria": {
+      "impossible": {
+        "trigger": "minecraft:impossible"
+      }
+    }
+  }
+  

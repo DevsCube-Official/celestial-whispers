@@ -1,0 +1,1 @@
+execute if entity @e[type=item,nbt={Item:{id:"minecraft:oak_sapling",count:1}},distance=..1] if entity @e[type=player,distance=..5] run function natures_secrets:entities/item_display/sapling/pog_tree_sapling_plant

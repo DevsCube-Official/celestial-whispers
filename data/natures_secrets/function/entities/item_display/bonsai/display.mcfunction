@@ -1,0 +1,9 @@
+execute unless score @s natures_secrets_heal_power matches 1.. run data merge entity @s {item:{id:"minecraft:item_frame",count:1,components:{"minecraft:custom_model_data":8123030}}}
+execute if score @s natures_secrets_heal_power matches 1 run data merge entity @s {item:{id:"minecraft:item_frame",count:1,components:{"minecraft:custom_model_data":8123031}}}
+execute if score @s natures_secrets_heal_power matches 2 run data merge entity @s {item:{id:"minecraft:item_frame",count:1,components:{"minecraft:custom_model_data":8123032}}}
+execute if score @s natures_secrets_heal_power matches 3 run data merge entity @s {item:{id:"minecraft:item_frame",count:1,components:{"minecraft:custom_model_data":8123033}}}
+execute if score @s natures_secrets_heal_power matches 4 run data merge entity @s {item:{id:"minecraft:item_frame",count:1,components:{"minecraft:custom_model_data":8123034}}}
+execute if score @s natures_secrets_heal_power matches 5 run data merge entity @s {item:{id:"minecraft:item_frame",count:1,components:{"minecraft:custom_model_data":8123035}}}
+execute if score @s natures_secrets_heal_power matches 6 run data merge entity @s {item:{id:"minecraft:item_frame",count:1,components:{"minecraft:custom_model_data":8123036}}}
+execute if score @s natures_secrets_heal_power matches 7 run data merge entity @s {item:{id:"minecraft:item_frame",count:1,components:{"minecraft:custom_model_data":8123037}}}
+execute if score @s natures_secrets_heal_power matches 8 run data merge entity @s {item:{id:"minecraft:item_frame",count:1,components:{"minecraft:custom_model_data":8123038}}}

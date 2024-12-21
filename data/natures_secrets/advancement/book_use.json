@@ -1,0 +1,26 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:using_item",
+      "conditions": {
+        "item": {
+          "components": {
+            "food": {
+              "nutrition": 1,
+              "saturation": 1,
+              "can_always_eat": true
+            },
+            "minecraft:consumable": {
+              "consume_seconds": 9999999,
+              "animation": "none"
+            },
+            "minecraft:custom_model_data": 8123023
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "natures_secrets:uses/book_use"
+  }
+}

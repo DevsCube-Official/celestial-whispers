@@ -1,0 +1,1 @@
+execute align xyz positioned ~0.5 ~0.5 ~0.5 run summon minecraft:item_display ~ ~ ~ {Tags:["natures_secrets_bonsai"]}

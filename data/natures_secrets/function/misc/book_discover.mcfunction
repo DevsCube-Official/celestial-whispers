@@ -1,0 +1,2 @@
+execute unless block ~ ~ ~ purple_bed[occupied=true,part=head] run advancement revoke @s only natures_secrets:book_find
+execute if block ~ ~ ~ purple_bed[occupied=true,part=head] run function natures_secrets:admin/give_strangebook
